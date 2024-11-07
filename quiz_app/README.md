@@ -1,16 +1,36 @@
-# quiz_app
 
-A new Flutter project.
+# 🧠 Quiz App
 
-## Getting Started
+A fun and interactive Quiz App built with Flutter! This app allows users to test their knowledge on various topics through engaging quizzes, featuring timed questions, score tracking, and more.
 
-This project is a starting point for a Flutter application.
+## 🌟 Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Timed Questions**: Challenge yourself with timed quizzes to make it more exciting.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Score Tracking**: Keep track of your scores to measure progress.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Randomized Questions**: Questions are randomized to ensure a fresh experience each time.
+
+- **Attractive UI**: User-friendly and visually appealing interface.
+
+## Screenshots
+
+| Feature       | Preview                    |
+|---------------|----------------------------|
+| Home Screen   | ![Q1](assets\images\q1.jpg) |
+| Home Screen   | ![Q2](assets\images\q2.jpg) |
+| Final Screen  | ![Q3](assets\images\q3.jpg) |
+
+
+## 🚀 Technologies Used
+
+- **Flutter**: For building a smooth, cross-platform mobile experience.
+
+- **Dart**: The language used for writing Flutter applications.
+
+- **Provider (or other state management tool)**: For managing quiz states and score tracking.
+
+
+- **assets/**: Holds images, icons, and any other static media assets.
+
+
